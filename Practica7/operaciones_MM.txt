@@ -1,0 +1,2 @@
+Prueba: registro de operación
+Operación de prueba ejecutada desde main()

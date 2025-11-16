@@ -1,0 +1,14 @@
+nov 15, 2025 6:45:00 P.M. practica7.SistemaBancoMM validarMatricula
+ADVERTENCIA: Matrícula inválida detectada: A1
+nov 15, 2025 6:58:14 P.M. practica7.SistemaBancoMM validarMatricula
+ADVERTENCIA: Matrícula inválida detectada: A1
+nov 15, 2025 6:58:22 P.M. practica7.SistemaBancoMM consultarSaldo
+GRAVE: Usuario no encontrado: XYZ000
+nov 15, 2025 6:58:30 P.M. practica7.SistemaBancoMM retirar
+ADVERTENCIA: Intento de retiro con saldo insuficiente para usuario USR3887
+nov 15, 2025 7:07:26 P.M. practica7.SistemaBancoMM validarMatricula
+ADVERTENCIA: Matrícula inválida detectada: A1
+nov 15, 2025 7:07:26 P.M. practica7.SistemaBancoMM consultarSaldo
+GRAVE: Usuario no encontrado: ID_INEXISTENTE
+nov 15, 2025 7:07:26 P.M. practica7.SistemaBancoMM retirar
+ADVERTENCIA: Intento de retiro con saldo insuficiente para usuario USR3887

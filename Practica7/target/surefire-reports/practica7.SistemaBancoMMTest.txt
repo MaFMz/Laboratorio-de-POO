@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: practica7.SistemaBancoMMTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.089 s -- in practica7.SistemaBancoMMTest
